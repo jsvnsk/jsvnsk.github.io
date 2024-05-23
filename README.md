@@ -3,3 +3,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [links](links.md)
 
 [markdown](markdown.md)
+
+[wiki](https://github.com/jsvnsk/jsvnsk.github.io/wiki)
