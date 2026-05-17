@@ -78,3 +78,11 @@ These 5 files are *"stock"* music tracks custom-made to give *Jane's WWII Fighte
 - [ModDB – Jane's WWII Fighters](https://www.moddb.com/games/janes-wwii-fighters)
 - [ModDB – Period Music Feature](https://www.moddb.com/mods/janes-wwii-fighters-2020-edition-flight-sim-air-combat/features/period-music-from-janes-world-war-ii-fighters)
 - [MobyGames Forum – Museum Music](https://www.mobygames.com/forum/game/1672/thread/204124/museum-music/)
+
+---
+
+## Comments
+
+**Discuss this post here:**
+
+https://github.com/jsvnsk/jsvnsk.github.io/discussions/1
