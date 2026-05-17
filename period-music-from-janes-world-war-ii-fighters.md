@@ -19,7 +19,7 @@ It also contains Big Band and Swing Jazz music embedded in a game binary file na
 
 ---
 
-# Audio Tracks
+# Music Tracks
 
 | Music Track Name       | Artist         | Title                        | Year Released |
 |------------------------|----------------|------------------------------|---------------|
