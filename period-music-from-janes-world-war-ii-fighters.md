@@ -63,7 +63,7 @@ Unfortunately, in the information age, well-published "guesses" often become acc
 
 Acoustic fingerprinting tools rely on databases of commercially released singles, albums, and streaming platforms. Because these works were never sold as commercial songs on iTunes, Spotify, or vinyl, Shazam has no fingerprint for them to match against.
 
-**Summary**
+**5. Summary**
 
 These 5 files are *"stock"* music tracks custom-made to give *Jane's WWII Fighters* an authentic 1940s big-band/jump-blues atmosphere. Historically, Jordan's *"Saturday Night Fish Fry"* was not released until 1949, well after the conclusion of WWII. New Orleans food history matches this timeline anomaly, as Zatarain's did not acquire the *"Wonderful Fish-Fri"* product until 1963.
 
