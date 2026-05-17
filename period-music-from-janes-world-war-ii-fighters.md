@@ -17,7 +17,9 @@ This article is about the period music contained in the *Jane's World War II Fig
 
 It also contains Big Band and Swing Jazz music embedded in a game binary file named `museum.elb` which appears on game disk #2. The individual music tracks can be extracted from the game binary file and saved to `.WAV` files using a utility named `ELBzip`. The `ELBzip` utility can be downloaded from the [ww2fighters.org](https://www.ww2fighters.org/) website. The `.WAV` files created by `ELBzip` may contain some audible glitches.
 
-AUDIO TRACKS:
+---
+
+# Audio Tracks
 
 | Music Track Name       | Artist         | Title                        | Year Released |
 |------------------------|----------------|------------------------------|---------------|
